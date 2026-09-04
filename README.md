@@ -2,8 +2,8 @@
 
 > open source
 
-[![Estadísticas de GitHub de dozelix](https://github-readme-stats.vercel.app/api?username=dozelix&show_icons=true&theme=radical)](https://github.com/dozelix)
-[![Lenguajes principales](https://github-readme-stats.vercel.app/api/top-langs/?username=dozelix&layout=compact&theme=radical)](https://github.com/dozelix)
+![Estadísticas de GitHub de dozelix](https://github-readme-stats.vercel.app/api?username=dozelix&show_icons=true&theme=radical)
+![Lenguajes principales](https://github-readme-stats.vercel.app/api/top-langs/?username=dozelix&layout=compact&theme=radical)
 
 ---
 
