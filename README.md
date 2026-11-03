@@ -5,7 +5,6 @@ Técnico en Analista Programador (INACAP, titulación mar-2027)
 
 ## Proyectos
 
-- **[dozelix.cl](https://www.dozelix.cl)** — sitio comercial en producción (Next.js, TypeScript): despliegue con CI/CD en GitHub Actions y suite de tests que bloquea cada cambio.
 - **[puente-opencode-telegram](https://github.com/dozelix/puente-opencode-telegram)** — bot de IA que conecta Telegram con OpenCode: sesiones por chat, gestión de permisos, archivos y un Router con fallback automático entre modelos de IA. TypeScript + Bun, con pruebas unitarias y E2E.
 - **[estacion-minera](https://github.com/dozelix/estacion-minera)** — app Android (Kotlin, Jetpack Compose) de supervisión de motores vía TCP conectada a un ESP32, con umbrales de vibración según ISO 10816-3.
 - Otros repos: plataforma de pagos en Django (API REST + portal de acceso) y EASML, juego educativo de navegador.
@@ -17,4 +16,3 @@ TypeScript · React · Node.js · Python (Django, FastAPI) · PostgreSQL · Vite
 ## Contacto
 
 - `samuelmendoza.dev@gmail.com`
-- [www.dozelix.cl](https://www.dozelix.cl)
